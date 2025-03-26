@@ -1,2 +1,2 @@
 # Tiendavirtual
-Proyecto desarrollo certus ciclo I
+Proyecto Desarrollo Certus Ciclo I
